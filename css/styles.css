@@ -1,0 +1,11 @@
+.radio {
+  color: blue;
+}
+
+.btn {
+  background-color: chartreuse;
+}
+
+#equilateral,#isosceles,#notatriangle,#scalene{
+  display: none;
+}
